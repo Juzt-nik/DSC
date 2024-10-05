@@ -21,7 +21,7 @@ class dsc3
                 if(c < day[i+1]+1)
                 break;
             }
-            result = (""+c) + mon[i] + x;
+            result = (""+c) + mon[i]+","+x;
             System.out.println(result); 
         }
         else
@@ -33,7 +33,7 @@ class dsc3
                 if(c < day[i+1]+1)
                 break;
             }
-            result = (""+c) + mon[i] + x;
+            result = (""+c) + mon[i] +","+ x;
             System.out.println(result);
         }
     }
