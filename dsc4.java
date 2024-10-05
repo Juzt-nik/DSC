@@ -17,6 +17,9 @@ class dsc4
             break;
         }
         n/=a[i];
+        if(n!=0 && i>2)
+        System.out.print((n+1) + b[i]);
+        else
         System.out.print(n + b[i]);
     }
 }
