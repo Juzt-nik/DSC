@@ -1,3 +1,12 @@
+// 4. The bottle shipping problem
+/* A company manufactures packing cartons in four sizes: small, medium, large and xl.
+ These cartons can hold 6 bottles, 12 bottles, 24 bottles and 48 bottles respectively.
+ Write a function that inputs the number of bottles to be shipped by the company. The
+ function should print the break-up of the number of cartons used in descending order of
+ capacity.
+ Example Test Case:
+ Input: 140
+ Output: 2 xl, 1 large, 1 medium, 1 small */
 import java.util.*;
 class dsc4
 {
