@@ -1,3 +1,10 @@
+ //3. Print the date based on the entered day and year
+ /* Write a function that inputs two integers: the day number and the year. This function
+ should generate a string that has the entire date with the date, month and year
+ mentioned. Ensure that the function also considers leap years.
+ Example Test Case:
+ Inputs: 256, 2021
+ Output: “13 September, 2021” */
 import java.util.*;
 class dsc3
 {
