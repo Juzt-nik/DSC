@@ -1,3 +1,6 @@
+//5. Design your own Stack
+ /* Design your own stack! The stack should have three functions: push(int), pop() and
+ peek(). You are only allowed to use Arrays or Linked Lists */
 import java.util.*;
 class dsc5
 {
